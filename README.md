@@ -7,3 +7,5 @@
 - 📫 How to reach me: 이메일...
 - 😄 Pronouns: 
 - ⚡ Fun fact: 특장점
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp

@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7285A5&text=%20Welcome%20%20&fontSize=30&height=200&fontColor=ffffff)
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7285A5)
 
 
 ## Hi, I'm Lee Seo-eun 👋
@@ -26,3 +25,7 @@
 <br>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=seoeun9595&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
+
+<br>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7285A5)

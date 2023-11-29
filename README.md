@@ -1,9 +1,14 @@
 ## Hi there 👋
 
-### 🥰 Who AM I
+### 🐰 Who AM I
 - 🌱 I’m currently learning: `Python`, `Data Engineering`
-- 🧑‍🎓 I majored in Statistics
+- 🧑‍🎓 I majored in `Statistics`
 - 📫 How to reach me: seoeun9595@gmail.com
+
+<br>
+
+### 🥰 What I Like
+- ⚾ baseball
 
 <br>
 

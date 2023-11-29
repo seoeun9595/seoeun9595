@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7285A5&text=%20Welcome%20%50&fontSize=30&height=200&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7285A5&text=%20Welcome%20&fontSize=50&height=200&fontColor=ffffff)
 
 
 ## Hi, I'm Lee Seo-eun 👋

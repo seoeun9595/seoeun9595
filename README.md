@@ -5,7 +5,8 @@
 
 ### Who AM I
 - 🌱 I’m currently learning `Python`, `Data Engineering`
-- 🧑‍🎓 I majored in `Statistics`
+- 🧑‍🎓 Major: `Statistics`
+- 🐰 MBTI: `ISFJ`
 - 📫 How to reach me: seoeun9595@gmail.com
 
 <br>

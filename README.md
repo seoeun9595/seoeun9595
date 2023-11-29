@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Lee Seo-eun 👋
 
 ### 🐰 Who AM I
 - 🌱 I’m currently learning: `Python`, `Data Engineering`

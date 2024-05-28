@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> </t>
 <img src="https://img.shields.io/badge/SAS-154881?style=flat-square&logo=SAS&logoColor=white"/> </t>
 <img src="https://img.shields.io/badge/SPSS-1572B6?style=flat-square&logo=SPSS&logoColor=white"/> </t>
+<br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> </t>
 
 <br>
 

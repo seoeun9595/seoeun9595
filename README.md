@@ -1,8 +1,9 @@
 ## Hi, I'm Lee Seo-eun 👋
 
 ### Who AM I
-- 🌱 I’m currently learning `Python`, `Data Engineering`
+- 🌱 I’m currently learning `Python`, `SQL`, `Data Analysis`, `Data Science`, `Data Engineering`
 - 🧑‍🎓 Major: `Statistics`
+- 🧑‍🎓 Minor: `Information Systems Engineering`
 - 🐰 MBTI: `ISFJ`
 - 📫 How to reach me: seoeun9595@gmail.com
 
@@ -26,5 +27,3 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=seoeun9595&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
 
 <br>
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7285A5)
